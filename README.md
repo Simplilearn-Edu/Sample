@@ -1,2 +1,1 @@
-# Sample
-Simplilearn's project
+This repository is for sharing project codes and files among coworkers.
